@@ -1,4 +1,4 @@
-# H-DTC
-基于双树复小波变换的下采样模块
+# DTCMC
+Downsampling feature extraction module based on dual tree complex wavelet transform and multi-scale convolution
 
-代码将在论文被接收后发布
+The code will be released after the paper is received.
